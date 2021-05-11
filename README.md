@@ -26,6 +26,7 @@ Navigus assignment of quiz
 
 ![Screenshot (162)](https://user-images.githubusercontent.com/63440512/117761303-c191a500-b244-11eb-837d-fa66cf98b10d.png)
 
+# STUDENT EXAM AND MARKS 
 
 ![Screenshot (163)](https://user-images.githubusercontent.com/63440512/117761199-96a75100-b244-11eb-98a7-8f18b38bc608.png)
 
